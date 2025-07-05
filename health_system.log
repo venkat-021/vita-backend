@@ -1,0 +1,74 @@
+2025-05-14 16:30:24,630 - WARNING - Failed login attempt for user: venkat1
+2025-05-14 16:30:32,939 - WARNING - Failed login attempt for user: Aa@11111
+2025-05-14 16:30:55,765 - WARNING - Failed login attempt for user: venkat
+2025-05-14 16:31:15,053 - WARNING - Failed login attempt for user: venkat
+2025-05-14 16:31:17,453 - WARNING - Failed login attempt for user: 
+2025-05-14 16:31:19,691 - WARNING - Failed login attempt for user: 
+2025-05-14 16:32:10,205 - INFO - New user registered: venkat
+2025-05-14 16:33:07,441 - INFO - Profile updated for user ID: 1
+2025-05-14 16:36:29,979 - INFO - User logged in: venkat
+2025-05-14 16:40:35,268 - INFO - User logged in: venkat
+2025-05-14 16:45:21,658 - INFO - User logged in: venkat
+2025-05-14 16:47:09,451 - INFO - User logged in: venkat
+2025-05-14 17:02:00,873 - WARNING - Registration failed - duplicate username/email: venkat1
+2025-05-14 21:13:04,539 - INFO - User logged in: venkat
+2025-05-14 21:27:57,345 - INFO - User logged in: venkat
+2025-05-14 21:32:26,642 - WARNING - Failed login attempt for user: venkat
+2025-05-14 21:32:34,997 - INFO - User logged in: venkat
+2025-05-14 21:33:56,022 - INFO - User logged in: venkat
+2025-05-14 21:35:01,565 - INFO - User logged in: venkat
+2025-05-14 21:35:59,414 - INFO - User logged in: venkat
+2025-05-14 21:36:20,208 - INFO - User logged in: venkat
+2025-05-14 21:36:55,436 - INFO - Profile updated for user ID: 1
+2025-05-15 08:56:53,658 - INFO - User logged in: venkat
+2025-05-15 09:05:23,140 - INFO - New user registered: prem
+2025-05-15 09:07:46,909 - INFO - Profile updated for user ID: 2
+2025-05-15 09:17:45,551 - INFO - New user registered: Dad
+2025-05-15 09:19:47,484 - INFO - Profile updated for user ID: 3
+2025-05-15 09:21:11,554 - INFO - User logged in: Dad
+2025-05-15 09:33:52,506 - INFO - User logged in: prem
+2025-05-15 21:53:32,001 - INFO - User logged in: venkat
+2025-05-15 22:04:00,441 - INFO - New user registered: younis
+2025-05-15 22:06:07,418 - INFO - Profile updated for user ID: 4
+2025-05-16 10:48:12,177 - INFO - User logged in: venkat
+2025-05-16 23:16:03,666 - INFO - User logged in: venkat
+2025-05-16 23:23:27,499 - INFO - User logged in: Dad
+2025-05-19 21:57:54,636 - INFO - User logged in: venkat
+2025-05-19 21:58:48,509 - INFO - Profile updated for user ID: 1
+2025-05-19 22:01:25,154 - INFO - User logged in: venkat
+2025-05-19 22:03:57,983 - INFO - User logged in: venkat
+2025-05-19 22:09:40,579 - INFO - User logged in: venkat
+2025-05-19 22:11:12,156 - INFO - User logged in: venkat
+2025-05-20 07:49:58,426 - INFO - User logged in: venkat
+2025-05-20 11:43:03,146 - INFO - User logged in: venkat
+2025-05-20 12:17:55,266 - INFO - User logged in: Dad
+2025-05-20 19:27:28,927 - ERROR - System error: cannot access local variable 'conn' where it is not associated with a value
+2025-05-21 15:57:47,217 - INFO - User logged in: venkat
+2025-05-21 16:07:15,341 - INFO - User logged in: venkat
+2025-05-21 17:52:32,653 - INFO - User logged in: venkat
+2025-05-21 18:21:06,117 - INFO - User logged in: Dad
+2025-05-24 12:11:09,466 - INFO - User logged in: venkat
+2025-05-24 12:24:52,834 - INFO - User logged in: venkat
+2025-05-25 06:49:49,617 - INFO - User logged in: venkat
+2025-05-25 06:50:40,803 - ERROR - Profile update error: No module named 'matplotlib'
+2025-05-25 12:05:31,985 - INFO - User logged in: venkat
+2025-05-27 22:19:27,257 - INFO - User logged in: venkat
+2025-05-27 22:30:26,804 - INFO - User logged in: venkat
+2025-05-27 22:50:57,865 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-05-27 22:50:57,866 - INFO - NumExpr defaulting to 8 threads.
+2025-05-27 22:51:46,508 - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-05-27 22:51:46,509 - INFO - NumExpr defaulting to 8 threads.
+2025-05-27 22:58:12,101 - INFO - User logged in: venkat
+2025-05-29 11:54:39,836 - INFO - User logged in: venkat
+2025-05-29 11:58:05,630 - INFO - User logged in: venkat
+2025-05-29 12:02:10,720 - INFO - User logged in: venkat
+2025-05-29 12:04:35,413 - INFO - User logged in: venkat
+2025-05-29 12:08:46,474 - ERROR - System error: 
+2025-05-29 12:09:08,046 - INFO - User logged in: venkat
+2025-05-29 12:16:20,938 - ERROR - System error: 
+2025-05-29 12:17:38,417 - INFO - User logged in: venkat
+2025-05-29 12:23:18,973 - INFO - User logged in: venkat
+2025-06-24 15:03:08,214 - INFO - User logged in: venkat
+2025-06-24 15:46:37,942 - ERROR - System error: cannot access local variable 'conn' where it is not associated with a value
+2025-06-24 15:46:56,602 - INFO - User logged in: venkat
+2025-06-28 14:47:56,194 - INFO - User logged in: venkat
